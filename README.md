@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Dionisio de Tierra
+- 👀 I’m working in area of full stack web development (Nodejs, Flask, React, Flatter, OPENUI5) and python-based AI services
